@@ -49,7 +49,7 @@ function mousePressed() {
 }
 
 function draw() {
-background(255, 189, 68);
+background(r, g, b);
 eye(150, 220, 125, 50);
 eye(350, 200, 125, 50);
 line(150, 350, 350, 400);
