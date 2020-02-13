@@ -56,7 +56,7 @@ line(150, 350, 350, 400);
 }
 
 function draw() {
-background(255, 189, 68);
+background(r, g, b);
 eye(windowWidth/2-100, 220, 125, 50);
 eye(windowWidth/2+100, 200, 125, 50);
 line(windowWidth/2-100, 350, windowWidth/2+100, 400);
