@@ -12,7 +12,7 @@ function eye(x, y, eyeSize, pupilSize){
 }
 
 function setup() {
-  pg = createGraphics(400, 250);
+  //pg = createGraphics(400, 250);
 
   r = random(255);
   g = random(255);
