@@ -54,7 +54,7 @@ var home = L.marker([41.952393, -87.654855], {
         popupAnchor: [8, -10]
       })
     }).addTo(map)
-        .bindPopup("<br><img src='https://github.com/jyunius/jyunius.github.io/blob/master/img/Screen%20Shot%202020-05-07%20at%206.39.23%20AM.png?raw=true' width='150' height='150' class='center'/><br><br><b><span class='title2'>Vapiano</span></b></br><hr><span class='input-group-addon'><i class='fa fa-location-arrow' aria-hidden='true'></i></span>&nbsp;44 S Wabash Ave.<br><span class='input-group-addon'><i class='fa fa-calendar' aria-hidden='true'></i></span>&nbsp;22th July, 2019<br><span class='input-group-addon'><i class='fa fa-clock-o' aria-hidden='true'></i></span>&nbsp;5:00pm<br><p class='para'>We ate a late lunch at Vapiano.</p>", {className: "f2_popup"});
+        .bindPopup("<br><img src='https://github.com/jyunius/jyunius.github.io/blob/master/img/Screen%20Shot%202020-05-07%20at%206.39.23%20AM.png?raw=true' width='150' height='150' class='center'/><br><br><b><span class='title2'>Vapiano</span></b></br><hr><span class='input-group-addon'><i class='fa fa-location-arrow' aria-hidden='true'></i></span>&nbsp;44 S Wabash Ave.<br><span class='input-group-addon'><i class='fa fa-calendar' aria-hidden='true'></i></span>&nbsp;22th July, 2019<br><span class='input-group-addon'><i class='fa fa-clock-o' aria-hidden='true'></i></span>&nbsp;5:00pm<br><p class='para'>We ate a late lunch at Vapiano.</p>", {className: "f1_popup"});
 
       //360 CHICAGO
     var f1_4 = L.marker([41.899000, -87.623543], {
