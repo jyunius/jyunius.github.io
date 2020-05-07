@@ -289,7 +289,7 @@ var route5_2 = L.polyline(route12, {color: '#bcc108'})
 
 //Grouping
 var home = L.layerGroup([home]);
-var bin = L.layerGroup([f1_1, f1_2, f1_3, f1_4, f1_5, f1_6, f1_7]);
+var bin = L.layerGroup([f1_1, f1_2, f1_3, f1_4, f1_5, f1_6, f1_7, f1_8]);
 var first = L.layerGroup([f1_1, f1_2, f1_3, route1_1,route1_2, route1_3]);
 var second = L.layerGroup([f1_4, f1_5, route2_1, route2_2, route2_3]);
 var third = L.layerGroup([f1_6,route3_1,route3_2]);
